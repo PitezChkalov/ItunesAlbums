@@ -30,7 +30,7 @@ import io.reactivex.disposables.Disposable
 import timber.log.Timber
 
 
-class MainActivity : MvpAppCompatActivity(), AlbumsView {
+class AlbumsActivity : MvpAppCompatActivity(), AlbumsView {
 
     private lateinit var textViewEmpty: TextView
     private lateinit var disposables: CompositeDisposable
