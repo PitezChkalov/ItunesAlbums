@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Поиск альбомов</string>
+    <string name="hint">Enter you query here</string>
+    <string name="searchHint">Search</string>
+    <string name="albumsEmpty">Начните поиск</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="price">Цена</string>
+    <string name="genre">Жанр</string>
+    <string name="trackCount">Количество треков</string>
+    <string name="date">Дата релиза</string>
+    <string name="copyright">Copyright</string>
+    <string name="country">Страна</string>
+    <string name="networkError">Возникла проблема при подключении к серверу</string>
+    <string name="unknownError">Возникла неизвестная ошибка</string>
+    <string name="no_tracks">Нет треков</string>
+    <string name="dot">•</string>
+    <string name="search">Поиск</string>
+    <string name="trackImage">Изображение</string>
+
+</resources>
