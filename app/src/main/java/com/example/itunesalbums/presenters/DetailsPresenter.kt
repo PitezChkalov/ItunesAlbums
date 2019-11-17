@@ -16,7 +16,7 @@ import java.lang.Exception
 @InjectViewState
 class DetailsPresenter: MvpPresenter<DetailsView>() {
 
-    val detailsProvider = DetailsProvider(this)
+    var detailsProvider = DetailsProvider(this)
     val mediaPlayer: MediaPlayer = MediaPlayer()
 
     lateinit var album: AlbumModel
