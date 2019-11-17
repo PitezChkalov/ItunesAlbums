@@ -144,7 +144,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="@string/no_tracks"
-            android:visibility="visible" />
+            android:visibility="gone" />
 
         <ProgressBar
             android:id="@+id/progressBar_tracks"
